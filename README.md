@@ -6,6 +6,9 @@ This project analyzes the Superstore Sales Dataset to identify best-selling prod
 - **Skills:** Data analysis, SQL, visualization
 - **Tools:** Python (Pandas), SQL, Power BI/Tableau
 
+## Dataset
+Kaggle Super store dataset
+
 ## Key Insights
 ✅ Most profitable product category is **Office Supplies**  
 ✅ **California** has the highest sales among all states  
