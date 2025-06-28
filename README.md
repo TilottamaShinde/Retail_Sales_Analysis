@@ -1,6 +1,6 @@
 # Retail Sales Data Analysis 🛒📊
 ## Overview
-This project analyzes the Superstore Sales Dataset to identify best-selling products, customer trends, and revenue insights.
+This project analyzes the Superstore Sales Dataset to identify best-selling products, customer trends, and revenue insights. 
 
 ## Skills & Tools
 - **Skills:** Data analysis, SQL, visualization
